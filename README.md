@@ -3,7 +3,7 @@
 <table>
 <tbody>
 <tr>
-    <td>3</td>
+    <td>(3)</td>
     <td>9</td>
     <td>23</td>
     <td>10</td>
